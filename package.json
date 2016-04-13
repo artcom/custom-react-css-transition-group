@@ -2,11 +2,7 @@
   "name": "custom-react-css-transition-group",
   "version": "0.1.0",
   "description": "This is a fork of the react-css-transition-group fixing an animation issue due to low framerate.",
-  "files": [
-    "dist/"
-  ],
-  "scripts": {},
-  "main": "dist/ReactCSSTransitionGroup.js",
+  "main": "ReactCSSTransitionGroup.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/artcom/custom-react-css-transition-group.git"
